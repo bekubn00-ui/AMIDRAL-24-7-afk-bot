@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AMIDRAL.aternos.me",
+    "ip": "AMIDRAL.aternos.me:18150",
     "port": 18150,
     "version": "26.3",
     "try-creative": false
